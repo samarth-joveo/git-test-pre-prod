@@ -4,7 +4,7 @@
   preferred_viewer: dashboards-next
   preferred_slug: otNk1cyckD3Ti2089uy1zi
   elements:
-  - title: r1-testing-dashboard-new-without
+  - title: r1-testing-dashboard
     name: r1-testing-dashboard
     model: git-test
     explore: r1
